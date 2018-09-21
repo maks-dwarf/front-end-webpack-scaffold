@@ -15,9 +15,6 @@
   ],
   "author": "Maks Zhovtyi - Dwarf",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
